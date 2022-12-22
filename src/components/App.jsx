@@ -2,7 +2,7 @@ import React from "react";
 import Login from "./Login";
 
 
-var isLoggedIn = true;
+var isLoggedIn = false;
 
 
 function App() {
